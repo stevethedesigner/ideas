@@ -1,2 +1,2 @@
-# ideas
-A place for the interesting, ludicrous,, and occasional diamond.
+# Ideas
+A place for the interesting, the ludicrous, and the occasional diamond.
